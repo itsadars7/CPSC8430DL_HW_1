@@ -1,4 +1,4 @@
-# Homework 1 – CPSC8430 Deep Learning
+# Adarsha Neupane: Homework 1 – CPSC8430 Deep Learning
 
 This repository contains the code for Homework 1 tasks
 
